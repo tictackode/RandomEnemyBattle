@@ -1,0 +1,22 @@
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\bin\Debug\RandomBattleVB.exe
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\bin\Debug\RandomBattleVB.pdb
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\bin\Debug\RandomBattleVB.xml
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.Form1.resources
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.Resources.resources
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.exe
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.xml
+C:\Users\RegsonJ\Documents\Visual Studio 2010\Projects\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\bin\Debug\RandomBattleVB.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\bin\Debug\RandomBattleVB.pdb
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\bin\Debug\RandomBattleVB.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.vbprojAssemblyReference.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.Form1.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.Resources.resources
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.vbproj.GenerateResource.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.vbproj.CoreCompileInputs.cache
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.exe
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.xml
+C:\Users\Regson_Josy\Documents\Regson_backup1\Codigos fonte e Projetos\Visual Studio 2010 Projetos\RandomBattleVB\RandomBattleVB\obj\x86\Debug\RandomBattleVB.pdb
